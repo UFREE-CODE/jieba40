@@ -1,0 +1,6 @@
+E:\aspmvc\jieba40\myjieba\jieba\obj\Debug\jieba.csprojResolveAssemblyReference.cache
+E:\aspmvc\jieba40\myjieba\jieba\bin\Debug\jieba.dll
+E:\aspmvc\jieba40\myjieba\jieba\bin\Debug\jieba.pdb
+E:\aspmvc\jieba40\myjieba\jieba\obj\Debug\jieba.dll
+E:\aspmvc\jieba40\myjieba\jieba\obj\Debug\jieba.pdb
+E:\aspmvc\jieba40\myjieba\jieba\bin\Debug\Newtonsoft.Json.xml

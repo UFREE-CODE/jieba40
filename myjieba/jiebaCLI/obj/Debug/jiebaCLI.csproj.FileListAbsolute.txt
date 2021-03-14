@@ -1,0 +1,10 @@
+E:\aspmvc\jieba40\myjieba\jiebaCLI\obj\Debug\jiebaCLI.csprojResolveAssemblyReference.cache
+E:\aspmvc\jieba40\myjieba\jiebaCLI\bin\Debug\jiebaCLI.exe.config
+E:\aspmvc\jieba40\myjieba\jiebaCLI\bin\Debug\jiebaCLI.exe
+E:\aspmvc\jieba40\myjieba\jiebaCLI\bin\Debug\jiebaCLI.pdb
+E:\aspmvc\jieba40\myjieba\jiebaCLI\bin\Debug\jieba.dll
+E:\aspmvc\jieba40\myjieba\jiebaCLI\bin\Debug\Newtonsoft.Json.dll
+E:\aspmvc\jieba40\myjieba\jiebaCLI\bin\Debug\jieba.pdb
+E:\aspmvc\jieba40\myjieba\jiebaCLI\bin\Debug\Newtonsoft.Json.xml
+E:\aspmvc\jieba40\myjieba\jiebaCLI\obj\Debug\jiebaCLI.exe
+E:\aspmvc\jieba40\myjieba\jiebaCLI\obj\Debug\jiebaCLI.pdb
